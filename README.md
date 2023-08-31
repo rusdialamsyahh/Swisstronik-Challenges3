@@ -11,10 +11,3 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
-# Swisstronik-Code-Challenges-3
-# Swisstronik-CodeChallenges3
-# Swisstronik-CodeChallenges3
-# Swisstronik-CodeChallenges3
-# Swisstronik-CodeChallenges3
-# Swisstronik-CodeChallenges3
-# Swisstronik-Challenges3
